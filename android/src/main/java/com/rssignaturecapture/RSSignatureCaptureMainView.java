@@ -130,7 +130,7 @@ public class RSSignatureCaptureMainView extends LinearLayout implements OnClickL
 
     // empty the canvas
     else if (tag.equalsIgnoreCase("Reset")) {
-      this.signatureView.clearSignature();
+   
     }
   }
 
